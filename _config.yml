@@ -1,0 +1,49 @@
+# Site settings
+course_name: SLS 775 Natural Language Processing in Corpus Research
+course_description: Corpus linguistics is a data-driven approach to language research that investigates patterns of language use in large collections of texts. Increasingly, corpus linguistics intersects with natural language processing (NLP), as computational methods make it possible to annotate and analyze increasingly large and complex language datasets. In this course, students will engage with key concepts and methods in corpus linguistics and explore how NLP approaches can be applied to linguistic research questions. 
+course_semester: "Fall 2026"
+course_location: "Moore 102 / W 3:00-5:50 PM"
+office_hours: "M 1:00-2:00 PM (in-person) & By appointment"
+
+baseurl: "/Fall26_SLS775" # the subpath of your site, e.g. /blog/
+url: "http://hksung.github.io/" # the base hostname & protocol for your site
+
+schoolname: "UH"
+schoolurl: "https://manoa.hawaii.edu/sls/"
+
+address: |
+    Hakyung Sung (sungh@hawaii.edu)
+    Department of Second Language Studies, College of Arts, Languages & Letters
+
+### Do not change the followings unless you know what you are doing ###
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+excerpt_separator: "<!--more-->"
+
+include: ['_images', '_css']
+exclude: ['develop']
+
+dateformat: "%m/%d/%Y"
+
+future: true
+collections:
+    events:
+        output: true
+    lectures:
+        output: true
+    assignments:
+        output: true
+    announcements:
+        output: false
+
+
+defaults:
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "assignment"

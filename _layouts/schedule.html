@@ -1,0 +1,60 @@
+---
+layout: default
+---
+
+<header class="post-header">
+    <h1 class="post-title">Schedule</h1>
+</header>
+
+{{ content }}
+
+<div class="home" style="font-size: 0.85em;">
+    <ul class="responsive-table" style="margin-left: 0;">
+        <li class="table-header">
+            <div class="col col-1">Event</div>
+            <div class="col col-1-2">Date</div>
+            <div class="col col-2">Description</div>
+            <div class="col col-4">Course Material</div>
+        </li>
+        
+        {% assign all_assignment_dues = site.assignments | map: "due_event" %}
+
+        {% assign all_events = site.events | concat: site.lectures %}
+        {% assign all_events = all_events | concat: site.assignments %}
+        {% assign all_events = all_events | concat: all_assignment_dues %}
+        {% assign all_events_sorted = all_events | sort: 'schedule_order' | sort: 'date' %}
+
+        {% for event in all_events_sorted %}
+        <li class="table-row table-row-{{ event.type}}" data-date="{{ event.date | date: '%Y-%m-%d' }}">
+            {% include schedule_row_{{ event.type }}.html event=event %}
+        </li>
+        {% endfor %}
+
+    </ul>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    var rows = document.querySelectorAll(".table-row[data-date]");
+    var today = new Date();
+    today.setHours(0, 0, 0, 0);
+    var dayOfWeek = today.getDay();
+    var monday = new Date(today);
+    monday.setDate(today.getDate() - ((dayOfWeek + 6) % 7));
+    var sunday = new Date(monday);
+    sunday.setDate(monday.getDate() + 6);
+
+    var firstMatch = null;
+    rows.forEach(function (row) {
+        var rowDate = new Date(row.getAttribute("data-date") + "T00:00:00");
+        if (rowDate >= monday && rowDate <= sunday) {
+            row.classList.add("current-week");
+            if (!firstMatch) firstMatch = row;
+        }
+    });
+
+    if (firstMatch) {
+        firstMatch.scrollIntoView({ behavior: "smooth", block: "center" });
+    }
+});
+</script>
