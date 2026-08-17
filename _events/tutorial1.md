@@ -11,4 +11,4 @@ hide_from_announcments: true
 - [Basics I](https://hksung.github.io/PythonTutorial/2.html)
 
 **Survey**
-- ADD LINK
+- [Survey](https://forms.gle/TqVZrmL98PapDHAT6)
