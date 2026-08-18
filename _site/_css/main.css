@@ -181,8 +181,8 @@ a.tosu { color: #b00000; background: #f5f5f5; text-decoration: none; padding: 2p
 .markdown-content p, .markdown-content ol { margin-bottom: 3px; }
 .markdown-content li { padding: 0px; display: list-item !important; border-bottom: 0 !important; }
 
-.paper-schedule-table { overflow-x: auto; }
-.paper-schedule-table table { width: 100%; table-layout: fixed; border-collapse: collapse; font-size: 0.88rem; border-top: 2px solid #b9b9b9; }
+.paper-schedule-table { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+.paper-schedule-table table { width: 100%; min-width: 100%; table-layout: fixed; border-collapse: collapse; font-size: 0.88rem; border-top: 2px solid #b9b9b9; }
 .paper-schedule-table th, .paper-schedule-table td { padding: 0.35rem 0.45rem; vertical-align: middle; border-left: none; border-right: none; }
 .paper-schedule-table thead th { border-bottom: 1px solid #d7d7d7; }
 .paper-schedule-table tbody td { border-top: 1px solid #ececec; }
@@ -191,10 +191,11 @@ a.tosu { color: #b00000; background: #f5f5f5; text-decoration: none; padding: 2p
 .paper-schedule-table th:nth-child(2), .paper-schedule-table td:nth-child(2) { width: 4%; text-align: center; white-space: nowrap; }
 .paper-schedule-table th:nth-child(3), .paper-schedule-table td:nth-child(3) { width: 24%; white-space: normal; overflow-wrap: anywhere; word-break: break-word; }
 .paper-schedule-table th:nth-child(4), .paper-schedule-table td:nth-child(4) { width: 66%; white-space: normal; overflow: visible; text-overflow: clip; overflow-wrap: anywhere; }
-@media all and (max-width: 767px) { .paper-schedule-table th:nth-child(1), .paper-schedule-table td:nth-child(1) { width: 12%; }
-  .paper-schedule-table th:nth-child(2), .paper-schedule-table td:nth-child(2) { width: 6%; }
-  .paper-schedule-table th:nth-child(3), .paper-schedule-table td:nth-child(3) { width: 28%; }
-  .paper-schedule-table th:nth-child(4), .paper-schedule-table td:nth-child(4) { width: 54%; } }
+@media all and (max-width: 767px) { .paper-schedule-table table { width: max-content; min-width: 40rem; table-layout: auto; }
+  .paper-schedule-table th:nth-child(1), .paper-schedule-table td:nth-child(1) { width: 4.5rem; }
+  .paper-schedule-table th:nth-child(2), .paper-schedule-table td:nth-child(2) { width: 2.75rem; }
+  .paper-schedule-table th:nth-child(3), .paper-schedule-table td:nth-child(3) { width: 12rem; }
+  .paper-schedule-table th:nth-child(4), .paper-schedule-table td:nth-child(4) { width: auto; min-width: 16rem; } }
 
 /* .site-nav { float: right; line-height: 40px;
 		margin-top: 15px;
