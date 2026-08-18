@@ -3,9 +3,6 @@ type: lecture
 schedule_order: 1
 date: 2026-08-26
 title: Intro to NLP for corpus linguistics
-links: 
-    - url: /Slides/260826_Lec1.pdf
-      name: slides
 ---
 **Lecture notes**
 - Chapter 1 <a href="../Files/notes.pdf#nameddest=ch1" target="_blank" rel="noopener noreferrer">Intro to NLP for corpus linguistics</a>
