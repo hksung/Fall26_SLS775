@@ -8,13 +8,15 @@ due_event:
     description: '1. Paper Presentation'
 ---
 
-## ✦ Paper presentation schedule
+## ▪ Paper presentation schedule
+
+<div class="paper-schedule-table" markdown="1">
 
 | Date  |  #  | Authors (Year)            | Title                                                                                  |
 | :---- | :-: | :------------------------ | :------------------------------------------------------------------------------------- |
 | 9/2   |  1  | Kyle & Eguchi (2024)      | [Evaluating NLP models with written and spoken L2 samples](10.1016/j.rmal.2024.100120) |
 | 9/9   |  2  | Hanks et al. (2024)       | [Building LANA-CASE, a spoken corpus of American English conversation: Challenges and innovations in corpus compilation](https://ricl.aelinco.es/index.php/ricl/article/view/305)|
-| 9/16  |  3  | Jarvis & Hashimoto (2021) | How operationalizations of word types affect measures of lexical diversity (available through the library)                                                                                       |
+| 9/16  |  3  | Jarvis & Hashimoto (2021) | How operationalizations of word types affect measures of lexical diversity (*available through the library*)                                                                                       |
 | 9/16  |  4  | Beinborn & Pinter (2023)  | [Analyzing Cognitive Plausibility of Subword Tokenization](https://aclanthology.org/2023.emnlp-main.272.pdf)|
 | 9/23  |  5  | Lu & Hu (2022)            | [Sense-aware lexical sophistication indices and their relationship to second language writing quality](https://link.springer.com/content/pdf/10.3758/s13428-021-01675-6.pdf)         |
 | 9/30  |  6  | Hemilton et al. (2016)    | [Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change](https://aclanthology.org/P16-1141.pdf)                                                                                      |
@@ -29,19 +31,17 @@ due_event:
 | 11/25 |  15 | Tian et al. (2026)        | [The KLiCKe Corpus: Keystroke Logging in Compositions for Knowledge Evaluation](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/modl.12907)                                                                                       |
 | 12/2  |  16 | Imperial et al. (2025)    | [UniversalCEFR: Enabling Open Multilingual Research on Language Proficiency Assessment](https://arxiv.org/pdf/2506.01419)                                                                                     |
 
+</div>
 
----
 
-## ✦ Guidelines
+<div style="height: 1.2rem;"></div>
 
-This is a brief guideline for preparing your paper presentation.
 
-The goal of this assignment is to introduce a paper related to the topics covered in this course to the class. You will benefit most from reading the paper carefully and identifying its key points. In your presentation, focus less on technical implementation details and more on clearly explaining (1) **what the study did** and (2) **why the paper is important**.
+## ▪ Guidelines
 
-**Time Limit:** 15–20 minutes (no more than 20 minutes)
+The goal of this assignment is to introduce a paper related to our course topics to the class. You will benefit most from reading the paper carefully and identifying its key points. In your presentation, focus less on technical implementation details and more on clearly explaining what problem the study addresses, what it does, what it finds, and what it contributes to the field.
 
 When preparing your presentation, consider the following guiding questions:
-
 1. What problem does the paper address?
 2. Why is this problem important?
 3. What research gap does this paper identify?
@@ -53,21 +53,14 @@ When preparing your presentation, consider the following guiding questions:
 9. What remains unresolved or could be improved?
 10. What are potential future directions?
 11. Are there any studies that have built on this work?
+12. Prepare a short Q&A slide for the end.
 
-*Tip*: If structuring a full presentation is difficult, you may select four questions from the list and answer each in approximately five minutes. For example, I'd recommend the following workflow:
+## ▪ Evaluation
 
-1. First, skim the paper. And then, read the paper more thoroughly.
-2. Decide which questions you want to address.
-3. Prepare clear answers to those questions.
-4. Organize your answers into presentation format (so that you can explain them to your peers).
-5. May prepare Q&A section at the end of the presentation.
+Presentations will be evaluated using the following criteria (10 points total):
 
-## ✦ Evaluation
-
-Presentations will be evaluated based on the following criteria (**10 points in total**):
-
-1. *Clarity* (**3 points**): Are the key ideas communicated clearly and effectively?
-2. *Depth* (**3 points**): Does the presenter demonstrate a solid understanding of the problem, approach, findings, and significance of the paper?
-3. *Organization* (**2 points**): Is the presentation well-structured and easy to follow?
-4. *Timing* (**2 points**): Does the presentation stay within the allotted time?
+1. *Clarity* (3 points): Are the key ideas communicated clearly and effectively?
+2. *Depth* (3 points): Does the presenter demonstrate a solid understanding of the problem, approach, findings, and significance of the paper?
+3. *Organization* (2 points): Is the presentation well-structured and easy to follow?
+4. *Timing* (2 points): Does the presentation stay within the allotted time?
 
