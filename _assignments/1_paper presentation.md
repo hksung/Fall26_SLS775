@@ -2,10 +2,6 @@
 type: assignment
 date: 2026-08-26T23:59:00+3:30
 title: "1. Paper Presentation"
-due_event: 
-    type: due
-    date: 2026-12-2T23:59:00+3:30
-    description: '1. Paper Presentation'
 ---
 
 ## ▪ Paper presentation schedule
@@ -59,8 +55,8 @@ When preparing your presentation, consider the following guiding questions:
 
 Presentations will be evaluated using the following criteria (10 points total):
 
-1. *Clarity* (3 points): Are the key ideas communicated clearly and effectively?
-2. *Depth* (3 points): Does the presenter demonstrate a solid understanding of the problem, approach, findings, and significance of the paper?
-3. *Organization* (2 points): Is the presentation well-structured and easy to follow?
-4. *Timing* (2 points): Does the presentation stay within the allotted time?
+1. Clarity (3 points): Are the key ideas communicated clearly and effectively?
+2. Depth (3 points): Does the presenter demonstrate a solid understanding of the problem, approach, findings, and significance of the paper?
+3. Organization (2 points): Is the presentation well-structured and easy to follow?
+4. Timing (2 points): Does the presentation stay within the allotted time?
 
