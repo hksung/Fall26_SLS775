@@ -4,6 +4,9 @@ schedule_order: 2
 date: 2026-08-26
 description: 'Intro to Python 1'
 hide_from_announcments: true
+links: 
+    - url: /Slides/082626_Lab1.pdf
+      name: slides
 ---
 
 **Tutorials**
