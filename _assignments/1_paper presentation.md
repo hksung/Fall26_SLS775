@@ -10,7 +10,7 @@ title: "1. Paper Presentation"
 
 | Date  |  #  | Authors (Year)            | Title                                                                                  |
 | :---- | :-: | :------------------------ | :------------------------------------------------------------------------------------- |
-| 9/2   |  1  | Kyle & Eguchi (2024)      | [Evaluating NLP models with written and spoken L2 samples](10.1016/j.rmal.2024.100120) |
+| 9/2   |  1  | Kyle & Eguchi (2024)      | [Evaluating NLP models with written and spoken L2 samples](https://www.sciencedirect.com/science/article/pii/S2772766124000260?casa_token=4DppF7r79wAAAAAA:JS55LjmuGyifHTJ5jFTvvpTmur1-K4GuDRjO0jUcJmHnFRUUHY-DZlDTQ58DMze4D01mXZd9dA) |
 | 9/9   |  2  | Hanks et al. (2024)       | [Building LANA-CASE, a spoken corpus of American English conversation: Challenges and innovations in corpus compilation](https://ricl.aelinco.es/index.php/ricl/article/view/305)|
 | 9/16  |  3  | Jarvis & Hashimoto (2021) | How operationalizations of word types affect measures of lexical diversity (*available through the library*)                                                                                       |
 | 9/16  |  4  | Beinborn & Pinter (2023)  | [Analyzing Cognitive Plausibility of Subword Tokenization](https://aclanthology.org/2023.emnlp-main.272.pdf)|
