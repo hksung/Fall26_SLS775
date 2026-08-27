@@ -24,7 +24,7 @@ title: "1. Paper Presentation"
 | 11/18 |  12 | Taboada (2016)            | [Sentiment analysis: An overview from linguistics](https://summit.sfu.ca/_flysystem/fedora/sfu_migrate/17209/Taboada_ARL_pre-pub.pdf)                                                                                       |
 | 11/18 |  13 | Zeldes et al. (2025)      | [eRST: A signaled graph theory of discourse relations and organization](https://aclanthology.org/2025.cl-1.3.pdf) |
 | 11/25 |  14 | Kuperman et al. (2025)    | [New data on text reading in English as a second language](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C479CDB95EEC27DF56289529774D91E9/S0272263125000105a.pdf/div-class-title-new-data-on-text-reading-in-english-as-a-second-language-div.pdf) |
-| 11/25 |  15 | Tian et al. (2026)        | [The KLiCKe Corpus: Keystroke Logging in Compositions for Knowledge Evaluation](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/modl.12907)                                                                                       |
+| 11/25 |  15 | Tian et al. (2026)        | [The KLiCKe Corpus: Keystroke Logging in Compositions for Knowledge Evaluation](https://repository.uantwerpen.be/docman/irua/643e53motoMb5)    |
 | 12/2  |  16 | Imperial et al. (2025)    | [UniversalCEFR: Enabling Open Multilingual Research on Language Proficiency Assessment](https://arxiv.org/pdf/2506.01419)                                                                                     |
 
 </div>
