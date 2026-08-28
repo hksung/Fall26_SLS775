@@ -27,12 +27,25 @@ layout: default
         {% assign all_events = site.events | concat: site.lectures %}
         {% assign all_events = all_events | concat: site.assignments %}
         {% assign all_events = all_events | concat: all_assignment_dues %}
-        {% assign all_events_sorted = all_events | sort: 'schedule_order' | sort: 'date' %}
+        {% assign all_events_sorted = all_events | sort: 'schedule_order' | sort: 'date' | reverse %}
+
+        {% assign now_ts = site.time | date: '%s' | plus: 0 %}
+        {% assign reveal_seconds = 7 | times: 86400 %}
 
         {% for event in all_events_sorted %}
-        <li class="table-row table-row-{{ event.type}}" data-date="{{ event.date | date: '%Y-%m-%d' }}">
-            {% include schedule_row_{{ event.type }}.html event=event %}
-        </li>
+            {% assign show_event = true %}
+            {% if event.hide_from_announcments %}
+                {% assign event_ts = event.date | date: '%s' | plus: 0 %}
+                {% assign seconds_until = event_ts | minus: now_ts %}
+                {% if seconds_until > reveal_seconds %}
+                    {% assign show_event = false %}
+                {% endif %}
+            {% endif %}
+            {% if show_event %}
+            <li class="table-row table-row-{{ event.type}}" data-date="{{ event.date | date: '%Y-%m-%d' }}">
+                {% include schedule_row_{{ event.type }}.html event=event %}
+            </li>
+            {% endif %}
         {% endfor %}
 
     </ul>
