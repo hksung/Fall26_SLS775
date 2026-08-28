@@ -53,7 +53,38 @@ layout: default
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
-    var rows = document.querySelectorAll(".table-row[data-date]");
+    var table = document.querySelector(".responsive-table");
+    if (!table) return;
+
+    var rows = Array.from(table.querySelectorAll(".table-row[data-date]"));
+    var typePriority = {
+        lecture: 0,
+        tutorial: 1,
+        assignment: 2,
+        raw_event: 3
+    };
+
+    rows.sort(function (a, b) {
+        var aDate = new Date(a.getAttribute("data-date") + "T00:00:00");
+        var bDate = new Date(b.getAttribute("data-date") + "T00:00:00");
+
+        var dateDiff = bDate - aDate;
+        if (dateDiff !== 0) return dateDiff;
+
+        var aType = a.className.match(/table-row-(\w+)/);
+        var bType = b.className.match(/table-row-(\w+)/);
+        var aPriority = typePriority[aType ? aType[1] : ""];
+        var bPriority = typePriority[bType ? bType[1] : ""];
+
+        if (aPriority === undefined) aPriority = 99;
+        if (bPriority === undefined) bPriority = 99;
+        return aPriority - bPriority;
+    });
+
+    rows.forEach(function (row) {
+        table.appendChild(row);
+    });
+
     var today = new Date();
     today.setHours(0, 0, 0, 0);
     var dayOfWeek = today.getDay();
