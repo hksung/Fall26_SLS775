@@ -6,7 +6,7 @@ title: NLP in learner corpus research
 
 ---
 **Lecture notes**
-- Chapter 2 <a href="../Files/notes.pdf#nameddest=section.2" target="_blank" rel="noopener noreferrer">NLP in learner corpus research</a>
+- Chapter 2 <a href="../Files/notes.pdf#page=9" target="_blank" rel="noopener noreferrer">NLP in learner corpus research</a>
 
 
 **Readings**

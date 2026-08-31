@@ -8,7 +8,7 @@ links:
       name: slides
 ---
 **Lecture notes**
-- Chapter 1 <a href="../Files/notes.pdf#nameddest=section.1" target="_blank" rel="noopener noreferrer">Intro to NLP for corpus linguistics</a>
+- Chapter 1 <a href="../Files/notes.pdf#page=2" target="_blank" rel="noopener noreferrer">Intro to NLP for corpus linguistics</a>
 
 
 **Readings**
