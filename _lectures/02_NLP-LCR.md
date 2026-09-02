@@ -3,7 +3,9 @@ type: lecture
 schedule_order: 2
 date: 2026-09-02
 title: NLP in learner corpus research
-
+links: 
+    - url: /Slides/090226_Lecture2.pdf
+      name: slides
 ---
 **Lecture notes**
 - Chapter 2 <a href="../Files/notes.pdf#page=9" target="_blank" rel="noopener noreferrer">NLP in learner corpus research</a>
