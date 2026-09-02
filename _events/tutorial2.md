@@ -6,7 +6,7 @@ description: 'Intro to Python 2'
 hide_from_announcments: true
 links: 
     - url: /Slides/090226_Lab2.pdf
-      name: slide
+      name: slides
 ---
 
 **Tutorials**
