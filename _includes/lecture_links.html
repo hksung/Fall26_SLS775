@@ -6,6 +6,6 @@
       {{ link.url }} 
     {% else %}
       {{ link.url | prepend: site.baseurl }} 
-    {% endif %}">{{ link.name }}</a>]
+    {% endif %}" target="_blank" rel="noopener noreferrer">{{ link.name }}</a>]
     {% endfor %}
     {% endif %}

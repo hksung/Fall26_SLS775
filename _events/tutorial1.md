@@ -10,8 +10,8 @@ links:
 ---
 
 **Tutorials**
-- [Getting Started](https://hksung.github.io/PythonTutorial/1.html)
-- [Basics I](https://hksung.github.io/PythonTutorial/2.html)
+- <a href="https://hksung.github.io/PythonTutorial/1.html" target="_blank" rel="noopener noreferrer">Getting Started</a>
+- <a href="https://hksung.github.io/PythonTutorial/2.html" target="_blank" rel="noopener noreferrer">Basics I</a>
 
 **Survey**
 - [Survey](https://forms.gle/TqVZrmL98PapDHAT6)

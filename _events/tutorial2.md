@@ -10,5 +10,5 @@ links:
 ---
 
 **Tutorials**
-- [Basics II](https://hksung.github.io/PythonTutorial/3.html)
-- [Basics III](https://hksung.github.io/PythonTutorial/4.html)
+- <a href="https://hksung.github.io/PythonTutorial/3.html" target="_blank" rel="noopener noreferrer">Basics II</a>
+- <a href="https://hksung.github.io/PythonTutorial/4.html" target="_blank" rel="noopener noreferrer">Basics III</a>
