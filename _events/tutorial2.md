@@ -11,3 +11,4 @@ links:
 
 **Tutorials**
 - [Basics II](https://hksung.github.io/PythonTutorial/3.html)
+- [Basics III](https://hksung.github.io/PythonTutorial/4.html)
