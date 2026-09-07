@@ -4,6 +4,9 @@ schedule_order: 3
 date: 2026-09-09
 title: Corpus design and selection
 ---
+**Lecture notes**
+- Chapter 3 <a href="../Files/notes.pdf#page=20" target="_blank" rel="noopener noreferrer">Corpus design and selection</a>
+
 **Readings**
 - Gries (2009). <a href="https://compass.onlinelibrary.wiley.com/doi/full/10.1111/j.1749-818X.2009.00149.x" target="_blank" rel="noopener noreferrer">What is Corpus Linguistics?</a>
 - Egbert et al. (2022), <a href="https://lamaku.hawaii.edu/d2l/le/content/185011/viewContent/4737480/View" target="_blank" rel="noopener noreferrer">Ch.3. Corpus representativeness: A conceptual and methodological framework</a>

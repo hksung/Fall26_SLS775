@@ -10,7 +10,6 @@ links:
 **Lecture notes**
 - Chapter 2 <a href="../Files/notes.pdf#page=9" target="_blank" rel="noopener noreferrer">NLP in learner corpus research</a>
 
-
 **Readings**
 - Granger (2026). <a href="https://www.researchgate.net/publication/401698109_Corpus-based_Research_in_Second_Language_Acquisition" target="_blank" rel="noopener noreferrer">Corpus-based Research in Second Language Acquisition.</a>
 - Kyle (2021). <a href="https://www.jbe-platform.com/docserver/fulltext/ijlcr.00019.int.pdf?expires=1787902639&id=id&accname=guest&checksum=42F01343A2BA7C79C951DF059A1273B5">Natural language processing for learner
