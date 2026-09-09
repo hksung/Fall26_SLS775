@@ -3,6 +3,9 @@ type: lecture
 schedule_order: 3
 date: 2026-09-09
 title: Corpus design and selection
+links: 
+    - url: /Slides/090926_Lecture3.pdf
+      name: slides
 ---
 **Lecture notes**
 - Chapter 3 <a href="../Files/notes.pdf#page=20" target="_blank" rel="noopener noreferrer">Corpus design and selection</a>
