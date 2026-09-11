@@ -42,7 +42,7 @@ layout: default
                 {% endif %}
             {% endif %}
             {% if show_event %}
-            <li class="table-row table-row-{{ event.type}}" data-date="{{ event.date | date: '%Y-%m-%d' }}">
+            <li class="table-row table-row-{{ event.type}}" data-date="{{ event.date | date: '%Y-%m-%d' }}"{% if event.type == 'assignment' and event.due_event %} data-is-assignment-release="true"{% endif %}>
                 {% include schedule_row_{{ event.type }}.html event=event %}
             </li>
             {% endif %}
@@ -96,7 +96,8 @@ document.addEventListener("DOMContentLoaded", function () {
     var firstMatch = null;
     rows.forEach(function (row) {
         var rowDate = new Date(row.getAttribute("data-date") + "T00:00:00");
-        if (rowDate >= monday && rowDate <= sunday) {
+        var isAssignmentRelease = row.hasAttribute("data-is-assignment-release");
+        if (!isAssignmentRelease && rowDate >= monday && rowDate <= sunday) {
             row.classList.add("current-week");
             if (!firstMatch) firstMatch = row;
         }

@@ -4,7 +4,7 @@ date: 2026-09-10T23:59:00+3:30
 title: "2. Project Proposal"
 due_event:
     type: due
-    date: 2026-09-16T23:59:00+3:30
+    date: 2026-09-18T23:59:00+3:30
     description: '2. Project Proposal due'
 ---
 
