@@ -10,4 +10,4 @@ links:
 ---
 
 **Shared repository**
-- <a href="https://docs.google.com/spreadsheets/d/1qh-If3hThPyZ6QTZZnhucLInnpGO-NeAlbSean61D5Y/edit?usp=sharing" target="_blank" rel="noopener noreferrer">shared Googld sheet</a>
+- <a href="https://docs.google.com/spreadsheets/d/1qh-If3hThPyZ6QTZZnhucLInnpGO-NeAlbSean61D5Y/edit?usp=sharing" target="_blank" rel="noopener noreferrer">shared Google sheet</a>
