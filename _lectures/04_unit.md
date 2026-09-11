@@ -13,4 +13,4 @@ title: Unit of analysis
 
 **Presentation**
 - Jarvis & Hashimoto (2021) <a href="https://lamaku.hawaii.edu/d2l/le/content/185011/viewContent/4755066/View" target="_blank" rel="noopener noreferrer">How operationalizations of word types affect measures of lexical diversity</a>
-- Beinborn & Pinter (2023) <a href="https://aclanthology.org/2023.emnlp-main.272.pdf" target="_blank" rel="noopener noreferrer">Analyzing Cognitive Plausibility of Subword Tokenization</a>ß
+- Beinborn & Pinter (2023) <a href="https://aclanthology.org/2023.emnlp-main.272.pdf" target="_blank" rel="noopener noreferrer">Analyzing Cognitive Plausibility of Subword Tokenization</a>
