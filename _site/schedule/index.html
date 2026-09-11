@@ -191,7 +191,7 @@
             
             
             
-            <li class="table-row table-row-assignment" data-date="2026-09-10">
+            <li class="table-row table-row-assignment" data-date="2026-09-10" data-is-assignment-release="true">
                 <div class="col col-1" style="color: #31708f ;font-weight: bold;" data-label="Event">Assignment</div>
 <div class="col col-1-2" data-label="Date">
     09/10/2026
@@ -520,8 +520,7 @@ document.addEventListener("DOMContentLoaded", function () {
     var firstMatch = null;
     rows.forEach(function (row) {
         var rowDate = new Date(row.getAttribute("data-date") + "T00:00:00");
-        var isAssignmentRelease = row.classList.contains("table-row-assignment") &&
-            row.querySelector('[data-label="Description"]').textContent.includes("released!");
+        var isAssignmentRelease = row.hasAttribute("data-is-assignment-release");
         if (!isAssignmentRelease && rowDate >= monday && rowDate <= sunday) {
             row.classList.add("current-week");
             if (!firstMatch) firstMatch = row;

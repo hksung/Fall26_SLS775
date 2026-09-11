@@ -34,7 +34,7 @@ If you plan to collect or compile your own data, briefly describe the source of 
 Describe what will count as one observation in your analysis. Include:
 
 * your primary unit of analysis
-* the **linguistic feature(s), variable(s), or measure(s)** you plan to examine at that level
+* the linguistic feature(s), variable(s), or measure(s) you plan to examine at that level
 * conceptually, how those features will be identified or measured in your NLP pipeline
 
 
