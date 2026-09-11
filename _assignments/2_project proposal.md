@@ -21,12 +21,12 @@ Provide 1–2 focused research question(s), which should be:
 * appropriate for an NLP-based analysis
 
 
-## 2. Data
+## 2. Corpus
 
-Describe the language data you plan to use.
+Describe the corpus you plan to use.
 
 - For many of you, this section can build on Assignment 1.
-If you plan to collect or compile your own data, briefly describe the source of the data and what you expect the dataset to contain.
+- If you plan to collect or compile your own corpus, focus on describing the domain representativeness of your corpus.
 
 
 ## 3. Unit of Analysis and Linguistic Measures
