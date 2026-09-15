@@ -46,7 +46,7 @@ Include at least 3 relevant sources. For each source:
 
 ## (Optional 5). Comments/Questions
 
-Include some questions (related to your proposal), if you have any.
+If you have comments/questions related to project, include here.
 
 ## Evaluation 
 
