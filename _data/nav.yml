@@ -8,9 +8,5 @@ items:
   icon_class: fas fa-calendar-alt
 
 - url: /assignments/
-  name: Assignments
+  name: Assignmnet/Project
   icon_class: fas fa-user-graduate
-
-- url: /project/
-  name: Project
-  icon_class: fas fa-users

@@ -44,6 +44,9 @@ Include at least 3 relevant sources. For each source:
 * provide the full citation
 * explain how the study is relevant to your project
 
+## (Optional 5). Comments/Questions
+
+Include some questions (related to your proposal), if you have any.
 
 ## Evaluation 
 
