@@ -1,5 +1,5 @@
 ---
 layout: assignments
-title: Assignments
+title: Assignments/Project
 permalink: /assignments/
 ---
