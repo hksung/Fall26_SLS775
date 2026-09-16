@@ -3,6 +3,9 @@ type: lecture
 schedule_order: 4
 date: 2026-09-16
 title: Unit of analysis
+links: 
+    - url: /Slides/091626_Lecture4.pdf
+      name: slides
 ---
 **Lecture notes**
 - Chapter 4 <a href="../Files/notes.pdf#page=29" target="_blank" rel="noopener noreferrer">Unit of analysis</a>
