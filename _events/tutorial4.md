@@ -1,8 +1,8 @@
 ---
 type: tutorial
-schedule_order: 6
-date: 2026-09-09
-description: 'Finding corpora'
+schedule_order: 8
+date: 2026-09-16
+description: 'Tokenization, Lemmatization'
 hide_from_announcments: true
 links: 
     - url: /Slides/091626_Lab4.pdf
