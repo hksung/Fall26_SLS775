@@ -2,8 +2,9 @@
 type: tutorial
 schedule_order: 10
 date: 2026-09-23
-description: 'Tokenization, Lemmatization (cont'd)'
+description: 'Tokenization, Lemmatization (cont.)'
 hide_from_announcments: true
+
 ---
 
 **Tutorials**
