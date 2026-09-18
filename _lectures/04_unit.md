@@ -8,7 +8,7 @@ links:
       name: slides
 ---
 **Lecture notes**
-- Chapter 4 <a href="../Files/notes.pdf#page=29" target="_blank" rel="noopener noreferrer">Unit of analysis</a>
+- Chapter 4 <a href="../Files/notes.pdf#page=30" target="_blank" rel="noopener noreferrer">Unit of analysis</a>
 
 **Readings**
 - Webb (2021). <a href="https://lamaku.hawaii.edu/d2l/le/content/185011/viewContent/4755061/View" target="_blank" rel="noopener noreferrer">The lemma dilemma: How should words be operationalized in research and pedagogy?</a>

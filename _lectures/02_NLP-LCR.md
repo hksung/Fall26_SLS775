@@ -8,7 +8,7 @@ links:
       name: slides
 ---
 **Lecture notes**
-- Chapter 2 <a href="../Files/notes.pdf#page=9" target="_blank" rel="noopener noreferrer">NLP in learner corpus research</a>
+- Chapter 2 <a href="../Files/notes.pdf#page=10" target="_blank" rel="noopener noreferrer">NLP in learner corpus research</a>
 
 **Readings**
 - Granger (2026). <a href="https://www.researchgate.net/publication/401698109_Corpus-based_Research_in_Second_Language_Acquisition" target="_blank" rel="noopener noreferrer">Corpus-based Research in Second Language Acquisition.</a>

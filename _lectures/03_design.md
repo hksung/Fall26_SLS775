@@ -8,7 +8,7 @@ links:
       name: slides
 ---
 **Lecture notes**
-- Chapter 3 <a href="../Files/notes.pdf#page=20" target="_blank" rel="noopener noreferrer">Corpus design and selection</a>
+- Chapter 3 <a href="../Files/notes.pdf#page=21" target="_blank" rel="noopener noreferrer">Corpus design and selection</a>
 
 **Readings**
 - Gries (2009). <a href="https://compass.onlinelibrary.wiley.com/doi/full/10.1111/j.1749-818X.2009.00149.x" target="_blank" rel="noopener noreferrer">What is Corpus Linguistics?</a>
