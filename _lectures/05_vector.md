@@ -4,6 +4,8 @@ schedule_order: 5
 date: 2026-09-23
 title: Word vectors
 ---
+**Lecture notes**
+- Chapter 5 <a href="../Files/notes.pdf#page=37" target="_blank" rel="noopener noreferrer">Word vectors</a>
 
 **Readings**
 - Lenci (2018). <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-linguistics-030514-125254" target="_blank" rel="noopener noreferrer">Distributional models of word meanings</a>
