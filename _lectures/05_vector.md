@@ -3,6 +3,9 @@ type: lecture
 schedule_order: 5
 date: 2026-09-23
 title: Word vectors
+links: 
+    - url: /Slides/092326_Lecture5.pdf
+      name: slides
 ---
 **Lecture notes**
 - Chapter 5 <a href="../Files/notes.pdf#page=37" target="_blank" rel="noopener noreferrer">Word vectors</a>
