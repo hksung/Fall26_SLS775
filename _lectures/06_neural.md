@@ -3,7 +3,9 @@ type: lecture
 schedule_order: 6
 date: 2026-09-30
 title: Neural networks
-
+links: 
+    - url: /Slides/093026_Lecture6.pdf
+      name: slides
 ---
 **Lecture notes**
 - Chapter 6 <a href="../Files/notes.pdf#page=46" target="_blank" rel="noopener noreferrer">Neural networks</a>
