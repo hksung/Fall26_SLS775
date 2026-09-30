@@ -65,14 +65,13 @@ Participation in the presentation session contributes to the presentation/partic
 
 Please upload your presentation slides to MyCourses **before the class!**.
 
-## Evaluation (7 points)
+## Evaluation (5 points)
 
 Your presentation will be evaluated based on the following criteria:
 
 1. Research Focus and Progress (2 points) — Is the research problem clearly defined, and does the presentation show meaningful progress since the project proposal?
 2. Development of Research Design (2 points) — Are the data, unit of analysis, measures, and planned methods sufficiently developed at this stage of the project?
-3. Current Challenges and Next Steps (2 points) — Does the presentation identify remaining questions, challenges, or decisions and provide a clear plan for moving the project forward?
-4. Clarity and Preparation (1 point) — Is the presentation clear, organized, and well prepared for the allotted presentation time?
+3. Current Challenges and Next Steps (1 points) — Does the presentation identify remaining questions, challenges, or decisions and provide a clear plan for moving the project forward?
 
 ---
 
