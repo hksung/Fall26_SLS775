@@ -77,13 +77,15 @@ Your presentation will be evaluated based on the following criteria:
 3. Current Challenges and Next Steps (2 points) — Does the presentation identify remaining questions, challenges, or decisions and provide a clear plan for moving the project forward?
 4. Clarity and Preparation (1 point) — Is the presentation clear, organized, and well prepared for the allotted presentation time?
 
+---
+
 # Midway Report
 
 The midway report is a partial draft of your final course paper. You are NOT expected to have completed the entire paper at this stage!
 
 For the midway report, please focus on the first three major sections:
 
-1. ntroduction
+1. Introduction
    This does not need to be fully polished or complete at this stage, but it should provide enough information for me to understand your research motivation, problem, and research question(s). Some of you may already have much of this material from your project proposal.
 
 2. Background / Related Work
@@ -92,19 +94,14 @@ For the midway report, please focus on the first three major sections:
 3. Methodology
    This can be an expanded version of the Unit of Analysis and Measures section from your proposal. Please provide more detail about your data, unit(s) of analysis, measures, coding procedures, and/or computational methods, as relevant to your project.
 
-The following sections are primarily expected for the **final paper**:
+4. (optional) You may also include a short section at the end listing questions, unresolved methodological issues, or areas where you would like feedback.
 
-4. Results  
-5. Discussion  
-6. Conclusion  
-
-7. (optional) You may also include a short section at the end listing questions, unresolved methodological issues, or areas where you would like feedback.
+The following sections are expected for the *final* paper: Results, Discussion, Conclusion.
 
 ## Possible format 1
-- You are also welcome to use a standard DOCX format. If you choose this option, please use 12-point Times New Roman, double spacing, and keep the paper to no more than 10 pages, excluding references.
+A standard DOCX format. If you choose this option, please use 12-point Times New Roman, double spacing, and keep the paper to no more than 10 pages, excluding references.
 
 ## Possible format 2
-- You may also use the following format:
 - ACL-style paper. The ACL format is provided as a useful model for organizing a computational linguistics research paper.
 - Length: Approximately 4 pages for a short paper or 8 pages for a long paper, excluding references. So if you want to keep things concise, 4 pages is fine with me.
 - File type: DOCX or PDF.
