@@ -13,27 +13,23 @@ due_event:
 The midway presentation and report are designed to help you:
 
 - Continue developing your course project/paper and make concrete progress toward the final submission.
-- Receive early feedback from your classmates and the instructor before completing the final project.
-- Help your classmates understand the key research background and research design informing your project.
-- Identify methodological questions, challenges, or decisions that would benefit from discussion.
+- Receive early feedback from your classmates and the instructor.
+- Identify methodological questions or decisions that would benefit from discussion.
 
-*Note*. I am providing these preliminary guidelines in advance to help you plan your work. Some details may be updated as we get closer to the midway presentation and report.
+*Note*. I am providing these preliminary guidelines in advance to help you plan your work. Some details may be updated as we get closer to the date.
 
 # Midway Presentation
 
-During Week 10 (October 28), we will not have a regular lecture or tutorial. Instead, you will participate in a small-group presentation and discussion session focused on your course projects.
-You will be assigned to a small group, and each student will briefly present their individual project to the group.
-
-For each student:
+During Week 10 (October 28), we will not have a regular lecture or tutorial. Instead, you will participate in a small-group presentation.
+Each student will briefly present their individual project to the group. For each student, approximately 15 minutes will be allocated:
 
 - 10 minutes: Project presentation (with your laptop)
 - 5 minutes: Questions, feedback, and discussion
 
 The goal of this session is not to give a polished conference-style presentation, but to clearly explain your current project and receive useful feedback from your classmates.
+During the discussion, group members should actively ask questions and provide constructive feedback!
 
-During the discussion, group members should actively ask questions, provide constructive feedback, and help identify potential issues or areas for further development.
-
-## What to Cover
+## What to Cover in the Presentation
 
 - Research problem and motivation
   - What problem or topic does your project address?
@@ -59,10 +55,11 @@ During the discussion, group members should actively ask questions, provide cons
 - Questions or challenges
   - You may highlight methodological questions, uncertainties, or challenges for which you would particularly like feedback.
 
-## Participation During Presentations
+## Participation during Presentations
 
-Please actively engage with your classmates' presentations. Participation in the presentation session contributes to the presentation/participation component of your course grade (4%).
-While listening to the presentations, you will be asked to complete and submit a short feedback form. The purpose of the form is to help you stay engaged and provide constructive feedback to your classmates.
+While listening to the presentations, you will be asked to complete and submit a short feedback form.
+The purpose of the form is to help you stay engaged and provide constructive feedback to your classmates.
+Participation in the presentation session contributes to the presentation/participation component of your course grade (4%), so the submitted form will be used for grading.
 
 ## Submission
 
@@ -81,9 +78,7 @@ Your presentation will be evaluated based on the following criteria:
 
 # Midway Report
 
-The midway report is a partial draft of your final course paper. You are NOT expected to have completed the entire paper at this stage!
-
-For the midway report, please focus on the first three major sections:
+The midway report is a *partial* draft of your final paper. For the midway report, please focus on the first three major sections:
 
 1. Introduction
    This does not need to be fully polished or complete at this stage, but it should provide enough information for me to understand your research motivation, problem, and research question(s). Some of you may already have much of this material from your project proposal.
