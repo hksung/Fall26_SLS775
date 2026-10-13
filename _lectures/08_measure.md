@@ -3,7 +3,9 @@ type: lecture
 schedule_order: 8
 date: 2026-10-14
 title: Measuring constructs in SLA
-
+links: 
+    - url: /Slides/101426_Lecture8.pdf
+      name: slides
 ---
 **Lecture notes**
 - Chapter 8 <a href="../Files/notes.pdf#page=62" target="_blank" rel="noopener noreferrer">Measuring constructs in SLA</a>
