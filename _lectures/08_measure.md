@@ -15,4 +15,3 @@ links:
 
 **Presentation**
 - Kim & Lu (2024) <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/modl.12907" target="_blank" rel="noopener noreferrer">L2 English speaking syntactic complexity: Data preprocessing issues, reliability of automated analysis, and the effects of proficiency, L1 background, and topic</a>
-- Biber & Larsson (2026) <a href="https://onlinelibrary.wiley.com/doi/10.1111/lang.70060" target="_blank" rel="noopener noreferrer">Analyzing grammatical complexity in L2-English development: A linguistically-grounded approach</a>
