@@ -76,14 +76,6 @@ Participation in the presentation sessions accounts for 4% of your course grade.
 
 ## Submission
 
-Please upload your **presentation slides** to Lamakū (Assignment - Midway presentation) **before the class**!
-
-## Evaluation (5 points)
-
-Your presentation will be evaluated based on the following criteria:
-
-1. Research Focus and Progress (2 points) — Is the research problem clearly defined, and does the presentation show meaningful progress since the project proposal?
-2. Development of Research Design (2 points) — Are the data, unit of analysis, measures, and planned methods sufficiently developed at this stage of the project?
-3. Current Challenges and Next Steps (1 point) — Does the presentation identify remaining questions, challenges, or decisions and provide a clear plan for moving the project forward?
+Please upload your draft to Lamakū: Assignment - Midway presentation (ideally before class).
 
 ---
