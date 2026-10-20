@@ -76,7 +76,7 @@ Participation in the presentation sessions accounts for 4% of your course grade.
 
 ## Submission
 
-Please upload your **presentation slides** to Lamakū (Assignment - Midway presentation) **before the class!**.
+Please upload your **presentation slides** to Lamakū (Assignment - Midway presentation) **before the class**!
 
 ## Evaluation (5 points)
 

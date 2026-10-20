@@ -2,10 +2,8 @@
 type: lecture
 schedule_order: 9
 date: 2026-10-21
-title: Measuring constructs in SLA
-links: 
-    - url: /Slides/101426_Lecture8.pdf
-      name: slides
+title: Linguistic annotations
+
 ---
 **Lecture notes**
 - Chapter 9 <a href="../Files/notes.pdf#page=70" target="_blank" rel="noopener noreferrer">Linguistic annotations</a>
