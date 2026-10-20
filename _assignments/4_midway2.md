@@ -33,7 +33,7 @@ You may choose either of the following formats.
 
 - **Font:** 12-point Times New Roman
 - **Spacing:** Double-spaced
-- **Length:** Up to 10 pages for the **final paper**, excluding references. Since the midway report covers only the first three sections, approximately **3–5 pages** would be a reasonable target, although this is flexible.
+- **Length:** Up to 10 pages for the final paper, excluding references. Since the midway report covers only the first three sections, approximately 3–4 pages would be a reasonable target.
 - **File type:** DOCX
 
 ### Option 2: ACL-style format
