@@ -3,7 +3,9 @@ type: lecture
 schedule_order: 9
 date: 2026-10-21
 title: Linguistic annotations
-
+links: 
+    - url: /Slides/102126_Lecture9.pdf
+      name: slides
 ---
 **Lecture notes**
 - Chapter 9 <a href="../Files/notes.pdf#page=70" target="_blank" rel="noopener noreferrer">Linguistic annotations</a>
