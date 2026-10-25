@@ -6,4 +6,5 @@ description: 'Midway presentation'
 hide_from_announcments: true
 
 ---
-
+**Submission**
+- (1) Slides (before class); (2) Google form (during presentation) 
