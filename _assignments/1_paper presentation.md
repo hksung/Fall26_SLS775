@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2026-08-26T23:59:00+3:30
-title: "1. Paper Presentation"
+title: "1. Paper presentation"
 ---
 
 ## ▪ Paper presentation schedule
@@ -21,9 +21,8 @@ title: "1. Paper Presentation"
 | 10/14 |  9  | Biber & Larsson (2026) |  [Analyzing grammatical complexity in L2-English development: A linguistically-grounded approach](https://www.researchgate.net/profile/Tove-Larsson-3/publication/412189350_Analyzing_grammatical_complexity_in_L2-English_development_A_linguistically-grounded_approach/links/6a7cae71b00fce3bf26f4d5d/Analyzing-grammatical-complexity-in-L2-English-development-A-linguistically-grounded-approach.pdf)                                                                                      |
 | 11/4  |  10 | Ettinger et al. (2023)    | [“You Are An Expert Linguistic Annotator”: Limits of LLMs as Analyzers of Abstract Meaning Representation](https://arxiv.org/pdf/2310.17793)                                                                                       |
 | 11/18 |  11 | Taboada (2016)            | [Sentiment analysis: An overview from linguistics](https://summit.sfu.ca/_flysystem/fedora/sfu_migrate/17209/Taboada_ARL_pre-pub.pdf)                                                                                       |
-| 11/25 |  12 | Kuperman et al. (2025)    | [New data on text reading in English as a second language](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C479CDB95EEC27DF56289529774D91E9/S0272263125000105a.pdf/div-class-title-new-data-on-text-reading-in-english-as-a-second-language-div.pdf) |
+| 11/18 |  12 | Fischer & Biemann (2025)   | [Semi-automatic Sequential Sentence Classification in the Discourse Analysis Tool Suite](https://aclanthology.org/2025.naacl-demo.16.pdf) |
 | 11/25 |  13 | Tian et al. (2026)        | [The KLiCKe Corpus: Keystroke Logging in Compositions for Knowledge Evaluation](https://repository.uantwerpen.be/docman/irua/643e53motoMb5)    |
-| 12/2  |  14 | Imperial et al. (2025)    | [UniversalCEFR: Enabling Open Multilingual Research on Language Proficiency Assessment](https://arxiv.org/pdf/2506.01419)                                                                                     |
 
 </div>
 

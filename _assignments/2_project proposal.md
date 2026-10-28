@@ -1,11 +1,11 @@
 ---
 type: assignment
 date: 2026-09-10T23:59:00+3:30
-title: "2. Project Proposal"
+title: "2. Project proposal"
 due_event:
     type: due
     date: 2026-09-25T23:59:00+3:30
-    description: '2. Project Proposal due'
+    description: '2. Project proposal due'
 ---
 
 # Project Proposal
