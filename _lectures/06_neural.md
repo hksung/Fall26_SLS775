@@ -8,7 +8,7 @@ links:
       name: slides
 ---
 **Lecture notes**
-- Chapter 6 <a href="../Files/notes.pdf#page=46" target="_blank" rel="noopener noreferrer">Neural networks</a>
+- Chapter 6 <a href="../Files/notes.pdf#page=47" target="_blank" rel="noopener noreferrer">Neural networks</a>
 
 **Readings**
 - Jurafsky & Martin (2024). <a href="https://web.stanford.edu/~jurafsky/slp3/6.pdf" target="_blank" rel="noopener noreferrer">Neural Networks</a>

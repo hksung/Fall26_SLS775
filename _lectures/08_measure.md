@@ -8,7 +8,7 @@ links:
       name: slides
 ---
 **Lecture notes**
-- Chapter 8 <a href="../Files/notes.pdf#page=62" target="_blank" rel="noopener noreferrer">Measuring constructs in SLA</a>
+- Chapter 8 <a href="../Files/notes.pdf#page=63" target="_blank" rel="noopener noreferrer">Measuring constructs in SLA</a>
 
 **Readings**
 - Bulté et al. (2025). <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/lang.12669?casa_token=PgsUzpZGUg4AAAAA%3AKP0p7qiyfFoQ24_-aAbxZSmGpaEoHs5iqlalXKNkgWVX6PxwnZfveNvSCUUBd6HGQF1hkg-0Ls02rqTz" target="_blank" rel="noopener noreferrer">Complexity and difficulty in second language acquisition: A theoretical and methodological overview</a>

@@ -8,7 +8,7 @@ links:
       name: slides
 ---
 **Lecture notes**
-- Chapter 9 <a href="../Files/notes.pdf#page=70" target="_blank" rel="noopener noreferrer">Linguistic annotations</a>
+- Chapter 9 <a href="../Files/notes.pdf#page=71" target="_blank" rel="noopener noreferrer">Linguistic annotations</a>
 
 **Readings**
 - Leech (2024). <a href="https://bond-lab.github.io/Corpus-Linguistics/dlc/chapter2.htm" target="_blank" rel="noopener noreferrer">Adding linguistic annotation</a>
