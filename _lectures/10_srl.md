@@ -3,7 +3,9 @@ type: lecture
 schedule_order: 10
 date: 2026-11-04
 title: Semantic role labeling
-
+links: 
+    - url: /Slides/110426_Lecture11.pdf
+      name: slides
 ---
 **Lecture notes**
 - Chapter 10 <a href="../Files/notes.pdf#page=78" target="_blank" rel="noopener noreferrer">Semantic role labeling</a>
