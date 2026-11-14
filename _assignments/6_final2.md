@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2026-11-13T23:59:00+3:30
-title: "6.Final report"
+title: "6. Final report"
 due_event: 
     type: due
     date: 2026-12-14T23:59:00+3:30
