@@ -21,9 +21,11 @@ Your final report should include the following six sections, as typically found 
 6. Conclusion: Summarize your main findings, implications, and potential directions for future research.
 
 Because this course focuses on using NLP for corpus research, you will also submit the code used in your computational analysis, documenting the steps described in your Methods section.
-7. Code/README on GitHub: Share your analysis code in a GitHub repository, along with a README explaining what the code does and how to run it. In week 15 (12/2), we will learn how to create a repository, upload code, and write a README. For now, keep your code organized and remember that it is part of the final assignment.
+- Code/README on GitHub: Share your analysis code in a GitHub repository, along with a README explaining what the code does and how to run it. In week 15 (12/2), we will learn how to create a repository, upload code, and write a README. For now, keep your code organized and remember that it is part of the final assignment.
 
-8. Optional: If you have a particular audience, journal, or conference in mind for your paper, please let me know. This might be helpful for me to understand your audience and future plans.
+More details:
+- AI acknowledgment: If you used AI tools, acknowledge which tools you used and how—for example, to develop code, revise writing.
+- Optional: If you have a particular audience, journal, or conference in mind for your paper, please let me know. This might be helpful for me to understand your audience and future plans.
 
 ## Format
 
