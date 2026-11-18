@@ -24,7 +24,7 @@ Your presentation must consist of exactly 5 slides, following the structure belo
 
 Please adhere to the five-slide limit and focus on the most important aspects of your project.
 
-## Participation During Presentations
+## Participation during presentations
 
 While listening to your classmates' presentations, you will be asked to complete and submit a short Google Form for each presentation. As with the midway presentations, I will compile your feedback and share it with each presenter. (Participation in the final presentation sessions accounts for 2% of your course grade.)
 

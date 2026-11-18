@@ -2,8 +2,10 @@
 type: lecture
 schedule_order: 11
 date: 2026-11-18
-title: Sentiment analysis, discourse analysis
-
+title: More automated analyses
+links: 
+    - url: /Slides/111826_Lecture12.pdf
+      name: slides
 ---
 **Lecture notes**
 - Chapter 11 <a href="../Files/notes.pdf#page=87" target="_blank" rel="noopener noreferrer">Sentiment analysis</a>
