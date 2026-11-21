@@ -22,7 +22,7 @@ title: "1. Paper presentation"
 | 11/4  |  10 | Ettinger et al. (2023)    | [“You Are An Expert Linguistic Annotator”: Limits of LLMs as Analyzers of Abstract Meaning Representation](https://arxiv.org/pdf/2310.17793)                                                                                       |
 | 11/18 |  11 | Taboada (2016)            | [Sentiment analysis: An overview from linguistics](https://summit.sfu.ca/_flysystem/fedora/sfu_migrate/17209/Taboada_ARL_pre-pub.pdf)                                                                                       |
 | 11/18 |  12 | Fischer & Biemann (2025)   | [Semi-automatic Sequential Sentence Classification in the Discourse Analysis Tool Suite](https://aclanthology.org/2025.naacl-demo.16.pdf) |
-| 11/25 |  13 | Tian et al. (2026)        | [The KLiCKe Corpus: Keystroke Logging in Compositions for Knowledge Evaluation](https://repository.uantwerpen.be/docman/irua/643e53motoMb5)    |
+| 11/25 |  13 | Tian et al. (2025)        | [The KLiCKe Corpus: Keystroke Logging in Compositions for Knowledge Evaluation](https://repository.uantwerpen.be/docman/irua/643e53motoMb5)    |
 
 </div>
 

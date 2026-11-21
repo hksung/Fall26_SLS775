@@ -9,7 +9,7 @@ links:
 ---
 **Lecture notes**
 - Chapter 11 <a href="../Files/notes.pdf#page=87" target="_blank" rel="noopener noreferrer">Sentiment analysis</a>
-- Chapter 10 <a href="../Files/notes.pdf#page=91" target="_blank" rel="noopener noreferrer">Discourse analysis</a>
+- Chapter 12 <a href="../Files/notes.pdf#page=91" target="_blank" rel="noopener noreferrer">Discourse analysis</a>
 
 **Readings**
 - Jurafsky & Martin (2024). <a href="https://web.stanford.edu/~jurafsky/slp3/23.pdf" target="_blank" rel="noopener noreferrer">Lexicons for Sentiment and Connotation</a>
