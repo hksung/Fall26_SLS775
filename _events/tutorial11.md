@@ -1,7 +1,7 @@
 ---
 type: tutorial
-schedule_order: 17
-date: 2026-11-18
+schedule_order: 18
+date: 2026-11-25
 description: 'Run models locally'
 hide_from_announcments: true
 links: 
